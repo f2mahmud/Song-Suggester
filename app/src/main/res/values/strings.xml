@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Music Personality</string>
+    <string name="dis_strong">Disagree Strongly</string>
+    <string name="dis_fair">Disagree Fairly</string>
+    <string name="neutral">Neutral</string>
+    <string name="agree_fair">Agree Fairly</string>
+    <string name="agree_strong">Agree Strongly</string>
+    <string name="next">Next</string>
+    <string name="test_result">These Big Five Personality Traits show a score out of 10:</string>
+
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Take test</item>
+        <item>Discover</item>
+        <item>Saved music</item>
+        <item>Test results</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@mipmap/ic_take_test</item>
+        <item>@mipmap/ic_add</item>
+        <item>@mipmap/ic_music_library</item>
+        <item>@mipmap/ic_results</item>
+    </array>
+
+</resources>
